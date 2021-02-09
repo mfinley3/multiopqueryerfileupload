@@ -1,4 +1,4 @@
-# MultiOpQueryerFileUpload
+# WorstMultiOpQueryerFileUploaderEver
 
 `go run main.go` 
 
